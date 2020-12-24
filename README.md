@@ -1,2 +1,2 @@
 # HW
-HTML ootcamp
+HTML bootcamp
